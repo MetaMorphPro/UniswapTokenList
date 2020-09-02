@@ -1,0 +1,49 @@
+{
+  "name": "MetaMorph Pro",
+  "logoURI": "https://metamorph.pro/images/FavIco.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "utlity": {
+      "name": "Utility",
+      "description": "X"
+    },
+    "security": {
+      "name": "Security",
+      "description": "X"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xfef3884b603c33ef8ed4183346e093a173c94da6",
+      "symbol": "METM",
+      "name": "MetaMorph",
+      "decimals": 18,
+      "logoURI": "https://metamorph.pro/images/FavIco.png",
+      "tags": [
+        "utility"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17167FAA5024B13513bcdfa3518ae90Ab91b2eB1",
+      "symbol": "BEEF",
+      "name": "BeefLedger",
+      "decimals": 8,
+      "logoURI": "http://beefledger.metamorph.pro/favicons/beefledger-favicon.png",
+      "tags": [
+        "utility"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
