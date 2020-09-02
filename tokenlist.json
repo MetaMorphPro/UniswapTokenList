@@ -31,10 +31,10 @@
     },
     {
       "chainId": 1,
-      "address": "0x17167FAA5024B13513bcdfa3518ae90Ab91b2eB1",
+      "address": "0xbc2908de55877e6baf2faad7ae63ac8b26bd3de5",
       "symbol": "BEEF",
       "name": "BeefLedger",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "http://beefledger.metamorph.pro/favicons/beefledger-favicon.png",
       "tags": [
         "utility"
